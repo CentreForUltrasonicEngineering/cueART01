@@ -144,7 +144,24 @@ Dr Timothy Lardner
 
 Marcus Ingram
 
+Dr Carmelo Mineo
+
+Riliang Su
+
+Dr Yashar Javadi 
+
+Dr Anthony Gachagan
+
 If You contributed in any way, and you are not listed here - please let me know, I will surely honor Your contribution.
 
+
+
+
+## Contributing
+1. For version number, use semantic verisioning 2.0.0 : https://semver.org/
+2. For branching workflow, use this: http://nvie.com/posts/a-successful-git-branching-model/
+3. For documentation, use this: http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/
+4. For new features, start a new folder, then a new submodule, and then use this: http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
+4. For anything else, ask Jerzy Dziewierz
 
 
