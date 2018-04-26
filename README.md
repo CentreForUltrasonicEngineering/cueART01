@@ -128,7 +128,7 @@ For development, please clone this repository, add Your changes there, use them,
 
 
 
-![CC](C:/git/2018%20cueART/resources/cc-icons-png/cc.png) ![BY](C:/git/2018%20cueART/resources/cc-icons-png/by.png) ![SA](C:/git/2018%20cueART/resources/cc-icons-png/sa.png) ![Free Culture](resources/cc-icons-png/seal.png)
+![CC](resources/cc-icons-png/cc.png) ![BY](resources/cc-icons-png/by.png) ![SA](resources/cc-icons-png/sa.png) ![Free Culture](resources/cc-icons-png/seal.png)
 
 This work is shared under `Creative Commons` [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  license, which is a [Free Culture](https://creativecommons.org/share-your-work/public-domain/freeworks) License. In short, you can use it, even for Your work, and even encapsulate the verbatim version inside closed commercial packages, but any modifications must be shared for free. 
 
