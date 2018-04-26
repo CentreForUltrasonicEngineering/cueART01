@@ -23,7 +23,9 @@ Initially, the following modules are provided:
 
 * [FMCSim](FMCSim.md) - a module for rapid FMC data set simulation 
 
-  ​
+#### Miscellaneous documentation
+* [data management tips](Data management tips.md)
+
 
 ----
 
